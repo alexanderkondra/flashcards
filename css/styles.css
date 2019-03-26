@@ -1,7 +1,11 @@
 body {
   font-size: 30px;
-
+  background-image: url("http://www.coloring-pages-adults.com/wp-content/uploads/sites/3/nggallery/mandalas/coloring-page-mandala-page-harmony-and-complexity.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 400px;
 }
+
 
 h1 {
   text-align: center;
@@ -20,4 +24,10 @@ li {
 
 li.hover {
   text-decoration: bold;
+}
+
+.highlight {
+  background-color: #E8E8E8;
+
+
 }
