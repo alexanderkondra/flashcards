@@ -1,0 +1,23 @@
+body {
+  font-size: 30px;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Carter One', cursive;
+
+}
+
+p {
+  display: none;
+}
+
+li {
+  cursor: pointer;
+  color: blue;
+}
+
+li.hover {
+  text-decoration: bold;
+}
